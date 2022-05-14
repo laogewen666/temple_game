@@ -18,5 +18,8 @@
 ## 最终结果
 **最终运行结果在视频中显示了整个游戏流程，视频链接：https://www.bilibili.com/video/BV1zT4y1B7Jv?share_source=copy_web**
 
+## 游戏文件
+**因为文件比较大就没上传，只放到了网盘上，贴个网盘链接：https://pan.baidu.com/s/1zIz1JYuV9i2I5_EFmZFohA?pwd=sz3b**
+
 
 
