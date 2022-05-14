@@ -9,6 +9,14 @@
 **黄色门能够防止玩家将上一关卡的反射块带入下一关进行使用，蓝色门能够阻挡激光**
 ![image](https://user-images.githubusercontent.com/73890243/168420129-78011204-7685-48a8-95af-1eca506eec4c.png)
 **三角块能够对激光进行反射从而激活触发球体**
+## 场景设计
+![image](https://user-images.githubusercontent.com/73890243/168420176-c797380a-0cdd-4ff4-81d2-2eff8541a10e.png)
+**整个场景关卡设计如图所示
+![image](https://user-images.githubusercontent.com/73890243/168420217-ca72822f-d467-4497-a109-6163a5b65afe.png)
+**通过使用megascan上的免费资产以及激活nanite功能提高画质来进行场景搭建**
+
+## 最终结果
+**最终运行结果在视频中显示了整个游戏流程，视频链接：https://www.bilibili.com/video/BV1zT4y1B7Jv?share_source=copy_web**
 
 
 
