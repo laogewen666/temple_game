@@ -25,7 +25,7 @@
 **三角块能够对激光进行反射从而激活触发球体**
 ## 场景设计
 ![image](https://user-images.githubusercontent.com/73890243/168420176-c797380a-0cdd-4ff4-81d2-2eff8541a10e.png)
-**整个场景关卡设计如图所示
+**整个场景关卡设计如图所示**
 ![image](https://user-images.githubusercontent.com/73890243/168420217-ca72822f-d467-4497-a109-6163a5b65afe.png)
 **通过使用megascan上的免费资产以及激活nanite功能提高画质来进行场景搭建**
 
