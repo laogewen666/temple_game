@@ -8,6 +8,11 @@
 ![image](https://user-images.githubusercontent.com/73890243/168422297-ce1a322a-3b20-46cf-9e4b-bf7264944d8a.png)
 ![image](https://user-images.githubusercontent.com/73890243/168422340-d773914d-2328-4c5b-8dc2-4e13e23e1ce6.png)
 ![image](https://user-images.githubusercontent.com/73890243/168422352-c91e71b6-aea2-4db1-8a3d-2f88218be726.png)
+### 激光发射器蓝图中封装好的函数
+![image](https://user-images.githubusercontent.com/73890243/168422465-5dd47b22-21eb-4897-9fe6-1129b9b52a1a.png)
+![image](https://user-images.githubusercontent.com/73890243/168422520-029ee8ad-61b1-46d7-84e3-72456c9638dd.png)
+![image](https://user-images.githubusercontent.com/73890243/168422596-90d1b51b-d4ab-44f0-a4a6-21387c9d2165.png)
+
 
 ## 核心功能
 ![image](https://user-images.githubusercontent.com/73890243/168419071-f6c79afa-55ca-4601-913f-eb192d670822.png)
